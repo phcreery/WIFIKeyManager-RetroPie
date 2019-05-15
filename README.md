@@ -3,6 +3,8 @@
 Multiple Wifi Key Manager for Retropie intended for the use with TinkerBoy's Controller v3.0.1
 https://www.tinkerboy.xyz/product/tinkerboy-controller-v3-0-game-boy-zero-aio-pcb-controller/
 
+This tool allows for the quick switching and selecting of Wireless SSID and Passwords from a driectory of keyfiles by copytin one into the /boot directory.
+
 ## Getting Started
 
 This small script helps with multiple WIFI key files that are usable in the RetroPie-Setup Script 
