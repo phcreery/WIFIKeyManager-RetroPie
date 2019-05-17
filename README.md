@@ -45,8 +45,8 @@ Place your wifikeys in /boot/wifikeys/ with any name ending in .txt
 ## ToDo
 This is the list of future changes:
 
- - [ ] Create KeyFiles with On-Screen Keyboard
- - [ ] More Graphical interface with something like Curses/asciimatics/npyscreen
+ - [x] Create KeyFiles with On-Screen Keyboard
+ - [x] More Graphical interface with something like Curses/asciimatics/npyscreen
 
 
 ## Authors
