@@ -26,7 +26,7 @@ pip install pyserial
 git clone "https://github.com/phcreery/WIFIKeyManager-RetroPie.git"
 sudo cp WIFI_KEY_MGR.sh /home/pi/RetroPie/retropiemenu/WIFI_KEY_MGR.py
 mkdir /home/pi/myfiles/wifi/
-cp wifimgr2.py /home/pi/myfiles/wifi/wifimgr2.py
+cp wifimgr3.py /home/pi/myfiles/wifi/wifimgr3.py
 ```
 
 ## Running
@@ -40,6 +40,11 @@ New menu item will be in RetroPie Menu.
 Place your wifikeys in /boot/wifikeys/ with any name ending in .txt
 
 1) Launch **WIFI_KEY_MGR** item select the wifi key file.
+ - A Selects key to import
+ - B Exits
+ - X Creates new key
+ - Y Deletes key
+
 2) Launch **WIFI** and Select **Import wifi cridentials**
 
 ## ToDo
@@ -47,7 +52,8 @@ This is the list of future changes:
 
  - [x] Create KeyFiles with On-Screen Keyboard
  - [x] More Graphical interface with something like Curses/asciimatics/npyscreen
-
+ - [x] python3 support
+ - [ ] Clean up code because it is sloppy right now
 
 ## Authors
 
