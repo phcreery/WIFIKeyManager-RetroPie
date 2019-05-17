@@ -1,1 +1,1 @@
-sudo python /home/pi/myfiles/wifi/wifimgr2.py
+sudo python3 /home/pi/myfiles/wifi/wifimgr3.py
