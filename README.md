@@ -54,6 +54,8 @@ This is the list of future changes:
  - [x] More Graphical interface with something like Curses/asciimatics/npyscreen
  - [x] python3 support
  - [ ] Clean up code because it is sloppy right now
+ - [ ] Better Documentation
+ - [ ] Incorperate new TUI features
 
 ## Authors
 
